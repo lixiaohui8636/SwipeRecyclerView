@@ -46,7 +46,6 @@
 </LinearLayout>
 ```
 ### JAVA
-#### Activity
 ```java
      swipeListView = (SwipeRecyclerView) findViewById(R.id.example_lv_list);
      mLayoutManager = new LinearLayoutManager(this);
